@@ -11,18 +11,20 @@
 │   ├── BankChurners.csv
 │   ├── fe_results.csv
 │   ├── fe_X_train.csv
+│   ├── fe_X_test.csv
 │   ├── fe_y_train.csv
 │   ├── re_X_train.csv
 │   ├── re_y_train.csv
+│   ├── scal_fe X_test.csv
+│   ├── scal_re_X_train.csv
 │   ├── X_test.csv
-│   ├── re_y_train.csv
-│   ├── X_test.csv│ 
 │   ├── X_train.csv
 │   ├── y_test.csv
 │   └── y_train.csv
 ├── models
 ├── notebooks
-│   ├── 1. eda.ipynb
-│   ├── 2. feature_engineering.ipynb
+│   ├── 1.eda.ipynb
+│   ├── 2.feature_engineering.ipynb
 │   └── 3.models.ipynb
+│   └── 4.summary.ipynb
 ```
